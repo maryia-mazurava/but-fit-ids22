@@ -1,2 +1,2 @@
-# but-fit-ids22
+# Database systems
 University database project
